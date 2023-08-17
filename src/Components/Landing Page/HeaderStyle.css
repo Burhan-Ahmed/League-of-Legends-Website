@@ -1,0 +1,30 @@
+
+li:hover {
+    cursor: pointer;
+}
+
+li::after,
+li::before {
+    content: "";
+    transform: scaleX(0);
+    transform-origin: bottom left;
+    display: block;
+    left: 0;
+    width: 0;
+    position: relative;
+    border-bottom: 2px solid white;
+    cursor: pointer;
+    transition: transform .15s ease-in-out;
+}
+
+li:hover::before {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    width: 100%;
+}
+
+li:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom right;
+    width: 100%;
+}

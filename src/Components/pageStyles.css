@@ -1,0 +1,20 @@
+.bgFooter {
+    height: 100vh;
+    background-image: url("src/assets/imgs/footer/wall-e.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.canva {
+    background: rgba(120, 120, 120, 0.8);
+    backdrop-filter: saturate(180%) blur(7px);
+}
+
+.card {
+    width: 100;
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

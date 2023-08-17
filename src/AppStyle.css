@@ -1,0 +1,107 @@
+.contain {
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  transition: background-image 1s ease-in-out;
+  box-sizing: border-box;
+}
+
+.LandingTitle {
+  font-family: 'Raleway', sans-serif;
+  animation: spin 5s infinite;
+}
+
+@keyframes spin {
+
+  from,
+  10% {
+    transform: translateY(-120%);
+  }
+
+  20%,
+  80% {
+    transform: translateY(0%);
+  }
+
+  to,
+  100% {
+    transform: translateY(-160%);
+  }
+}
+
+h6 {
+  font-family: 'Kalam', cursive;
+  animation: ss 5s infinite;
+}
+
+@keyframes ss {
+
+  from,
+  10% {
+    transform: translateX(-120%);
+  }
+
+  20%,
+  80% {
+    transform: translateX(0%);
+  }
+
+  to,
+  100% {
+    transform: translateX(-160%);
+  }
+}
+
+.hideSides {
+  overflow: hidden;
+}
+
+.descrip {
+  font-family: Tahoma, Geneva, Verdana;
+  animation: para 5s infinite;
+}
+
+@keyframes para {
+
+  from,
+  10% {
+    transform: translateX(120%);
+  }
+
+  20%,
+  80% {
+    transform: translateX(0%);
+  }
+
+  to,
+  100% {
+    transform: translateX(160%);
+  }
+}
+
+.btBox {
+  overflow: hidden;
+}
+
+.cpu {
+  animation: gg 5s infinite;
+}
+
+@keyframes gg {
+
+  from,
+  10% {
+    transform: translateY(-120%);
+  }
+
+  20%,
+  80% {
+    transform: translateY(0%);
+  }
+
+  to,
+  100% {
+    transform: translateY(160%);
+  }
+}
