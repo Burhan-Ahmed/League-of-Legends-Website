@@ -5,7 +5,7 @@ export default function Head() {
     return (
         <div className="ms-36 flex">
             <div className="w-52">
-                <img src="src/assets/logos/logo-bg-remove.png" alt="Website Logo" />
+                <img src="https://i.ibb.co/Wxg0XnR/logo-bg-remove.png" alt="Website Logo" />
             </div>
             <div className="text-3xl text-gray-600">
                 <ul className="ms-16 mt-10 flex font-semibold">
