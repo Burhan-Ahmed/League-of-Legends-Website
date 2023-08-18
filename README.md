@@ -1,4 +1,4 @@
-# Expense Tracker
+# Gaming Website
 Another React Project, just for Practice
 ## Tool
 VS Code
