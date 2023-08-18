@@ -1,9 +1,8 @@
 {
   "name": "league-of-legends",
-  "homepage": "https://burhan-ahmed.github.io/League-of-Legends",
+  "homepage": "https://Burhan-Ahmed.github.io/League-of-Legends",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
