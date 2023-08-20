@@ -1,6 +1,6 @@
 # Gaming Website
 Another React Project, just for Practice
-- React![lol](https://github.com/Burhan-Ahmed/League-of-Legends/assets/92679045/4d42481d-aadf-4abe-95fd-a51f67ef5390)
+Landing Page of Website![lol](https://github.com/Burhan-Ahmed/League-of-Legends/assets/92679045/4d42481d-aadf-4abe-95fd-a51f67ef5390)
 ## Tool
 VS Code
 ## Languages
