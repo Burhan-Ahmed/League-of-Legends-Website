@@ -1,5 +1,6 @@
 # Gaming Website
 Another React Project, just for Practice
+![Alt text](image link)
 ## Tool
 VS Code
 ## Languages
