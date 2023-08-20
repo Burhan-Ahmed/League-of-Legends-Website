@@ -1,13 +1,14 @@
 # Gaming Website
 Another React Project, just for Practice
-![Alt text](src/assets/imgs/lol.png Landing Page of Website)
+- React![lol](https://github.com/Burhan-Ahmed/League-of-Legends/assets/92679045/4d42481d-aadf-4abe-95fd-a51f67ef5390)
 ## Tool
 VS Code
 ## Languages
 - HTML
 * CSS3
 + Tailwind
-- React
+
+
 
 ## Project was Created Via
 React + Vite
