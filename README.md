@@ -1,6 +1,6 @@
 # Gaming Website
 Another React Project, just for Practice
-![Alt text](src/assets/imgs/lol.png)
+![Alt text](src/assets/imgs/lol.png Landing Page of Website)
 ## Tool
 VS Code
 ## Languages
