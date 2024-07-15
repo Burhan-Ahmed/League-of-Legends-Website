@@ -4,8 +4,7 @@ Landing Page of Website![lol](https://github.com/Burhan-Ahmed/League-of-Legends/
 ## Tool
 VS Code
 ## Languages
-- HTML
-* CSS3
+- React
 + Tailwind
 
 
